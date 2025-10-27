@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Perfil Pessoal</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <!-- Perfil Principal -->
+        <div class="perfil">
+            <div class="foto-perfil">
+                <img src="imagem.jpg.jpg" alt="imagem" id="foto-perfil">
+            </div>
+            <h1 class="nome" id="nome">Natasha</h1>
+            <p class="profissao" id="profissao">Professora</p>
+            <p class="descricao" id="descricao">
+                Uma breve descrição sobre você. Conte um pouco sobre sua trajetória, 
+                interesses e objetivos.
+            </p>
+        </div>
+
+        <!-- Carrossel de Características -->
+        <div class="carrossel-container">
+            <h2>Minhas Características</h2>
+            <div class="carrossel">
+                <div class="carrossel-track" id="carrossel-track">
+                    <!-- Itens do carrossel serão inseridos via JavaScript -->
+                </div>
+                <button class="carrossel-btn prev" id="prev-btn">‹</button>
+                <button class="carrossel-btn next" id="next-btn">›</button>
+            </div>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
