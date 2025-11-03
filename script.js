@@ -10,14 +10,14 @@ const caracteristicas = [
         descricao: "Uma mulher no escuro, a mulher na janela, jantar secreto, a metade sombria etc."
     },
     {
-        imagem: "caminho/para/imagem3.jpg",
-        titulo: "Proatividade",
-        descricao: "Antecipo problemas e busco soluções antes que se tornem críticas."
+        imagem: "imagens4.jpg",
+        titulo: "Filmes favoritos",
+        descricao: "Pearl, Barbarian, Rent-a-pal, Cuando acecha la maldad."
     },
     {
-        imagem: "caminho/para/imagem4.jpg",
-        titulo: "Organização",
-        descricao: "Metódico e cuidadoso com prazos e detalhes importantes."
+        imagem: "imagens5.jpg",
+        titulo: "Viagens",
+        descricao: "Buenos Aires"
     },
     {
         imagem: "caminho/para/imagem5.jpg",
